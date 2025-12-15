@@ -12,7 +12,7 @@ This repository contains all analyses regarding this manuscript, "Regulatory lan
 ### Fine-mapping Tables 
 **Full AD fine-mapping results and variants split by method are included within the full_results folder within this repository.** 
 
-Supplementary Tables: 
+All Supplementary Tables can be found in the Supplementary_Tables_AD_MPRA.xlsx file. Variants within each supplementary table can also be queried via the R Markdown files provided in this README.md file. 
 
 
 ### Fine-mapping Analyses:
